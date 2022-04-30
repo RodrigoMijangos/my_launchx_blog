@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigomijangos.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Siempre hay nuevos trucos que dominar</title>
+      <link>https://rodrigomijangos.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigomijangos.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Nuevas experiencias a las viejas barreras. En pocos lugares he visto el requerimiento de validar los cambios mediante un despliegue automatizado. La experiencia más cercana que tuve fue usar Heroku para desplegar una landing page con React.
+Recuerdo que el servicio de Heroku estaba vinculado al repositorio de Github que contenía la landing page. Cada que se hacía un cambio dentro de la rama master, los cambios eran construidos dentro de Heroku y muchas veces el cambio dejaba algún error dentro de la página.</description>
+    </item>
+    
+    <item>
       <title>Acoplandose al ritmo de la tripulación</title>
       <link>https://rodrigomijangos.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Thu, 28 Apr 2022 17:57:04 -0600</pubDate>
