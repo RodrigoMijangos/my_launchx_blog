@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigomijangos.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>El poder oculto de Javascript</title>
+      <link>https://rodrigomijangos.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sun, 01 May 2022 22:00:00 -0600</pubDate>
+      
+      <guid>https://rodrigomijangos.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Javascript es un lenguaje que existe. Hace algunos años mientras estudiaba historia de los lenguajes de programación leí que Javascript fue creado para darle funcionalidad a las páginas web, lo cual en muchas formas dió paso a la era de la web 2.0, con el tiempo surgió PHP como herramienta para desarrollar entornos MVC que posteriormente se enfocaron a los entornos Cliente-Servidor; dedicandose más al lado del servidor.
+Gracias a su simpleza; muchas herramientas de desarrollo Frontend lo utilizan como base para funcionar; por lo que, en mi vida habría pensado en construír un sistema orientado al Backend con Javascript.</description>
+    </item>
+    
+    <item>
       <title>Siempre hay nuevos trucos que dominar</title>
       <link>https://rodrigomijangos.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
